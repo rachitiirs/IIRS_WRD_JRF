@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="24.7.5">
   <diagram name="Page-1" id="QUtDIccSRgERD6ln696T">
-    <mxGraphModel dx="733" dy="390" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="838" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="07gmpoXII292DJnsWcgK-1" value="FLDAS Climate variables" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fillColor=#ffcc99;strokeColor=#36393d;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="85" y="180" width="124" height="54" as="geometry" />
+          <mxGeometry x="116" y="180" width="124" height="54" as="geometry" />
         </mxCell>
         <mxCell id="07gmpoXII292DJnsWcgK-2" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;rotation=-90;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="158" y="219" width="30" height="60" as="geometry" />
@@ -117,7 +117,8 @@
         <mxCell id="07gmpoXII292DJnsWcgK-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.998;entryY=0.536;entryDx=0;entryDy=0;entryPerimeter=0;fontStyle=1;exitX=0.425;exitY=0.979;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" target="MAml1XfjMAZWZLBs70uh-9" edge="1" source="MAml1XfjMAZWZLBs70uh-13">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="560" y="333" />
+              <mxPoint x="520" y="162" />
+              <mxPoint x="520" y="333" />
             </Array>
             <mxPoint x="575" y="164" as="sourcePoint" />
             <mxPoint x="487" y="334" as="targetPoint" />
@@ -127,11 +128,15 @@
           <mxGeometry x="312" y="510" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MAml1XfjMAZWZLBs70uh-5" value="&lt;div&gt;MERIT DEM&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fillColor=#ffcc99;strokeColor=#36393d;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="377" y="103.02" width="120" height="60" as="geometry" />
+          <mxGeometry x="302" y="103.02" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MAml1XfjMAZWZLBs70uh-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.592;entryY=-0.067;entryDx=0;entryDy=0;entryPerimeter=0;fontStyle=1" parent="1" source="MAml1XfjMAZWZLBs70uh-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="437.03999999999996" y="194.00000000000003" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="438" y="133" />
+              <mxPoint x="438" y="194" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="MAml1XfjMAZWZLBs70uh-8" value="Watershed Delineation for 9 NWH basins" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#cce5ff;strokeColor=#36393d;fontStyle=1" parent="1" vertex="1">
@@ -156,7 +161,7 @@
           <mxGeometry x="330" y="424" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MAml1XfjMAZWZLBs70uh-13" value="&lt;div&gt;Decadal&amp;nbsp;&lt;/div&gt;&lt;div&gt;LULC for India (2005)&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fillColor=#ffcc99;strokeColor=#36393d;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="509" y="103.02" width="120" height="60" as="geometry" />
+          <mxGeometry x="448" y="103.02" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5M5wrSji2qeCkD0t40Yh-3" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;rotation=-90;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="140" y="264" width="49" height="43" as="geometry" />
@@ -166,6 +171,21 @@
         </mxCell>
         <mxCell id="5M5wrSji2qeCkD0t40Yh-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.485;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="5M5wrSji2qeCkD0t40Yh-5" target="5M5wrSji2qeCkD0t40Yh-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5t3jCof5IoFhCqDW-onn-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5t3jCof5IoFhCqDW-onn-1" target="5t3jCof5IoFhCqDW-onn-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5t3jCof5IoFhCqDW-onn-1" value="&lt;div&gt;IMS&amp;nbsp;&lt;/div&gt;&lt;div&gt;Snow Cover&amp;nbsp;&lt;/div&gt;&lt;div&gt;data&amp;nbsp;&amp;nbsp;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fillColor=#ffcc99;strokeColor=#36393d;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="587" y="103.02" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5t3jCof5IoFhCqDW-onn-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5t3jCof5IoFhCqDW-onn-2" target="5t3jCof5IoFhCqDW-onn-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5t3jCof5IoFhCqDW-onn-2" value="Clipped to NWH boundary" style="whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;rounded=1;glass=0;strokeWidth=1;shadow=0;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="587" y="223.99999999999997" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5t3jCof5IoFhCqDW-onn-4" value="" style="whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;rounded=1;glass=0;strokeWidth=1;shadow=0;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="587" y="338" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
