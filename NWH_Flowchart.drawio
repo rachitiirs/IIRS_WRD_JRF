@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="24.7.5">
   <diagram name="Page-1" id="QUtDIccSRgERD6ln696T">
-    <mxGraphModel dx="880" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="733" dy="390" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -114,11 +114,10 @@
         <mxCell id="07gmpoXII292DJnsWcgK-27" value="Snow Depth" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fillColor=#ffcc99;strokeColor=#36393d;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="174" y="508" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="07gmpoXII292DJnsWcgK-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.998;entryY=0.536;entryDx=0;entryDy=0;entryPerimeter=0;fontStyle=1" parent="1" target="MAml1XfjMAZWZLBs70uh-9" edge="1">
+        <mxCell id="07gmpoXII292DJnsWcgK-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.998;entryY=0.536;entryDx=0;entryDy=0;entryPerimeter=0;fontStyle=1;exitX=0.425;exitY=0.979;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" target="MAml1XfjMAZWZLBs70uh-9" edge="1" source="MAml1XfjMAZWZLBs70uh-13">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="575" y="334" />
-              <mxPoint x="495" y="334" />
+              <mxPoint x="560" y="333" />
             </Array>
             <mxPoint x="575" y="164" as="sourcePoint" />
             <mxPoint x="487" y="334" as="targetPoint" />
@@ -157,7 +156,7 @@
           <mxGeometry x="330" y="424" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MAml1XfjMAZWZLBs70uh-13" value="&lt;div&gt;Decadal&amp;nbsp;&lt;/div&gt;&lt;div&gt;LULC for India (2005)&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fillColor=#ffcc99;strokeColor=#36393d;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="525" y="103.02" width="120" height="60" as="geometry" />
+          <mxGeometry x="509" y="103.02" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5M5wrSji2qeCkD0t40Yh-3" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;rotation=-90;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="140" y="264" width="49" height="43" as="geometry" />
