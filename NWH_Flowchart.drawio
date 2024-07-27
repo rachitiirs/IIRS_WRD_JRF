@@ -184,7 +184,12 @@
           <mxGeometry x="583" y="103.02" width="127" height="66.98" as="geometry" />
         </mxCell>
         <mxCell id="5t3jCof5IoFhCqDW-onn-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5t3jCof5IoFhCqDW-onn-2" target="5t3jCof5IoFhCqDW-onn-4">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="647" y="320" />
+              <mxPoint x="647" y="320" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="5t3jCof5IoFhCqDW-onn-2" value="Clipped to NWH boundary" style="whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;rounded=1;glass=0;strokeWidth=1;shadow=0;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="587" y="223.99999999999997" width="120" height="60" as="geometry" />
@@ -198,7 +203,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5t3jCof5IoFhCqDW-onn-4" value="Min, Max, Average &amp;amp; Relative Snow Cover statistics calculation&amp;nbsp;" style="whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;rounded=1;glass=0;strokeWidth=1;shadow=0;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="583" y="338" width="127" height="62" as="geometry" />
+          <mxGeometry x="583" y="338" width="137" height="82" as="geometry" />
         </mxCell>
         <mxCell id="5t3jCof5IoFhCqDW-onn-7" value="Min, Max,&amp;nbsp;&lt;div&gt;Average&amp;nbsp;&lt;div&gt;&amp;amp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;Relative&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Snow Cover&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;graphs&lt;/div&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#cdeb8b;strokeColor=#36393d;rounded=1;glass=0;strokeWidth=1;shadow=0;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="583" y="510" width="147" height="80" as="geometry" />
