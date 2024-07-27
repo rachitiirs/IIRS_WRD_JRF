@@ -99,13 +99,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="07gmpoXII292DJnsWcgK-24" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fillColor=#cdeb8b;strokeColor=#36393d;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="454" y="510" width="120" height="60" as="geometry" />
+        <mxCell id="07gmpoXII292DJnsWcgK-24" value="Long term&amp;nbsp;&lt;div&gt;Annual &amp;amp; Monthly average Maps&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fillColor=#cdeb8b;strokeColor=#36393d;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="454" y="510" width="146" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="MAml1XfjMAZWZLBs70uh-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.542;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontStyle=1" parent="1" source="07gmpoXII292DJnsWcgK-25" target="07gmpoXII292DJnsWcgK-24" edge="1">
+        <mxCell id="MAml1XfjMAZWZLBs70uh-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.444;entryY=-0.01;entryDx=0;entryDy=0;entryPerimeter=0;fontStyle=1" parent="1" source="07gmpoXII292DJnsWcgK-25" target="07gmpoXII292DJnsWcgK-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="07gmpoXII292DJnsWcgK-25" value="Zonal Statistics" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fillColor=#cce5ff;strokeColor=#36393d;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="07gmpoXII292DJnsWcgK-25" value="Long term Annual &amp;amp; Monthly average + Zonal Statistics" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fillColor=#cce5ff;strokeColor=#36393d;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="459" y="424" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="07gmpoXII292DJnsWcgK-26" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;rotation=-90;fontStyle=1" parent="1" vertex="1">
@@ -125,7 +125,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="07gmpoXII292DJnsWcgK-31" value="Snow Depth&amp;nbsp;&lt;div&gt;Maps&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fillColor=#cdeb8b;strokeColor=#36393d;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="330" y="510" width="120" height="60" as="geometry" />
+          <mxGeometry x="312" y="510" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MAml1XfjMAZWZLBs70uh-5" value="&lt;div&gt;MERIT DEM&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fillColor=#ffcc99;strokeColor=#36393d;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="377" y="103.02" width="120" height="60" as="geometry" />
